@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mahalia<br>3rd year Software Engineering student at the University of Queensland.<br>Full stack developer in training, with a strong interest in frontend engineering and building products that are both functional and well-designed.<br>🌱 Currently learning: React, JavaScript, Node.js, PostgreSQL<br>💼 Open to: full stack / frontend internship opportunities for Summer 2026/27<br>
+Hi, I'm Mahalia<br>🎓 3rd year Software Engineering student at the University of Queensland.<br>💻Full stack developer in training, with a strong interest in frontend engineering and building products that are both functional and well-designed.<br>🌱 Currently learning: React, JavaScript, Node.js, PostgreSQL<br>💼 Open to: full stack / frontend internship opportunities for Summer 2026/27<br>
 
 
 # 💻 Tech Stack:
